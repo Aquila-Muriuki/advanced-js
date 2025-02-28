@@ -54,7 +54,7 @@ function solution(message,k){
 
 
                 }
-            }
+            } 
 
 
         }
